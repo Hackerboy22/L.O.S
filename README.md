@@ -3,7 +3,7 @@ _A simple OS ran by python and java! (Must download/install python and java) (ja
 
 __Installation:__
 
-Run `main.py` and you will see: _Server or Client?_
+Run `main.sh` and you will see: _Server or Client?_
 
 Obviously, type `server` or `client`.
 
