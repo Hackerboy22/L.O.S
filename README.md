@@ -1,9 +1,11 @@
 # OS
-_A simple OS ran by python and java! (Must download/install python and java) (java only needed if client side installed)_
+_A simple OS!
 
 __Installation:__
 
-Run `main.sh` and you will see: _Server or Client?_
+Download and install Java and Python.
+
+Download and run `main.sh` and you will see: _Server or Client?_
 
 Obviously, type `server` or `client`.
 
