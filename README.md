@@ -1,5 +1,5 @@
 # OS
-_A simple OS!
+A simple linux OS!
 
 __Installation:__
 
