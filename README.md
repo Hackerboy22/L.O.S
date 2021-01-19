@@ -17,4 +17,6 @@ Commands: `app`(Executes javascript code as running app.), `shell`(Executes shel
 
 __Client:__
 
+Your java code is in `index.java`, it will be added to `App.java` as the ___`App()`___ section.
+
 Execute `main.java`, then execute `App.java`.
