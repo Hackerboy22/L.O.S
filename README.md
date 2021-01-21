@@ -1,4 +1,4 @@
-# OS
+# L.O.S
 A simple linux OS!
 
 __Installation:__
